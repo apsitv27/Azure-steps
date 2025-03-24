@@ -1,7 +1,8 @@
-on a new Azure VM from scratch, assuming you already have the VM and domain (example.centralindia.cloudapp.azure.com) ready.
+## ON a new Azure VM from scratch, assuming you already have the VM and domain (example.centralindia.cloudapp.azure.com) ready.
 
 FOR THIS TUTORIAL WE ARE DEPLOYING THE FLASK APP [Link](https://github.com/vedantterse/AIO-PDF-tools-web)
-🚀 Full Deployment Guide for AIO-PDF on Azure VM
+
+### 🚀 Full Deployment Guide for AIO-PDF on Azure VM
 
 1️⃣ SSH into the VM
 On your local machine, run:
